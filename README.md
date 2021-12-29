@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AJ
 - 👀 I’m interested in programming, music and bodybuilding.
-- 🌱 I’m currently learning React and improving my vanilla js skills.
+- 🌱 I’m currently working on improving my React, Scss and vanilla js skills.
 - 💞️ I’m looking to collaborate on any new or exciting projects.
 - 📫 How to reach me Ahmed.J.Jibril@hotmail.com
 
