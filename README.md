@@ -3,7 +3,7 @@ Frontend Developer
 
 * 🖥️  See my portfolio at [https://ahmedjjibril.netlify.app/](http://https://ahmedjjibril.netlify.app/)
 * ✉️  You can contact me at [Ahmed.J.Jibril@hotmail.com](mailto:Ahmed.J.Jibril@hotmail.com)
-* 🧠  I'm learning currently react native
+* 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
