@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed J. Jibril
+Hi, My name is Ahmed J. Jibril
 =======================================================================================================================================
 
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Bærum, Norway
 * 🖥️  See my portfolio at [https://ahmedjjibril.netlify.app/](http://https://ahmedjjibril.netlify.app/)
 * ✉️  You can contact me at [Ahmed.J.Jibril@hotmail.com](mailto:Ahmed.J.Jibril@hotmail.com)
-* 🧠  I'm learning Tailwindcss
+* 🧠  I'm learning currently react native
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
