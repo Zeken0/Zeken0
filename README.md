@@ -1,7 +1,7 @@
 Frontend Developer
 ------------------
 
-* 🖥️  See my portfolio at [https://ahmedjjibril.netlify.app/](http://https://ahmedjjibril.netlify.app/)
+* 🖥️  See my portfolio at [https://ahmedjjibril.netlify.app/](https://ahmedjibril.netlify.app/)
 * ✉️  You can contact me at [Ahmed.J.Jibril@hotmail.com](mailto:Ahmed.J.Jibril@hotmail.com)
 * 🧠  I'm currently learning Node/Express
 * 🤝  I'm open to collaborating on any interesting projects
