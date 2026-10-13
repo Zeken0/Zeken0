@@ -1,9 +1,7 @@
 Fullstack Developer
 ------------------
 
-* 🖥️  See my portfolio at [https://ahmedjjibril.netlify.app/](https://ahmedjibril.netlify.app/)
 * ✉️  You can contact me at [Ahmed.J.Jibril@hotmail.com](mailto:Ahmed.J.Jibril@hotmail.com)
-* 🧠  I'm currently learning Medusajs, Payloadcms, Tailwindcss, Typescript and Supabase.
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
